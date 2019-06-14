@@ -9,9 +9,10 @@
 ##### Technical Lead Android Development at Adorsys GmbH & Co KG
 
 - Development and maintenance of different apps for diverse customers (Teambank / DATEV / NIEHOFF / in-house)
-- Focus: architecture mobile apps, data security</li><li>most popular app: Fymio: https://play.google.com/store/apps/details?id=de.teambank.fymio
-- Open-Source Libraries: https://github.com/adorsys/secure-storage-android & https://github.com/adorsys/fingerprint-android
-- Tags: Kotlin, Tensorflow, Android Things, Firebase, Jetpack, Flutter, Android Keystore, Symmetric / Asymmetric encryption</li></ul>
+- Focus: architecture mobile apps, data security
+- App [Fymio](https://play.google.com/store/apps/details?id=de.teambank.fymio)
+- Open-Source Libraries [Secure Storage](https://github.com/adorsys/secure-storage-android) & [Finger](https://github.com/adorsys/fingerprint-android)
+- Tags: Kotlin, Tensorflow, Android Things, Firebase, Jetpack, Flutter, Android Keystore, Symmetric / Asymmetric encryption
 
 #### 01/08/2016 – 31/10/2016
 
