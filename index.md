@@ -6,42 +6,42 @@
 
 #### 01/11/2016 – now
 
-##### Technical Lead Android Development at Adorsys GmbH & Co KG
+##### Technical Lead Android Development at [Adorsys GmbH & Co KG](https://adorsys.de/)
 
-- Development and maintenance of different apps for diverse customers (Teambank / DATEV / NIEHOFF / in-house)
+- Development and maintenance of different apps for diverse customers ([Teambank](https://www.teambank.de/) / [DATEV](https://www.datev.de/web/de/startseite/startseite-n) / [NIEHOFF](https://www.niehoff-gmbh.info/de/) / [in-house](https://adorsys.de/))
 - Focus: architecture mobile apps, data security
 - App [Fymio](https://play.google.com/store/apps/details?id=de.teambank.fymio)
 - Open-Source Libraries [Secure Storage](https://github.com/adorsys/secure-storage-android) & [Finger](https://github.com/adorsys/fingerprint-android)
-- Tags: Kotlin, Tensorflow, Android Things, Firebase, Jetpack, Flutter, Android Keystore, Symmetric / Asymmetric encryption
+- Tags: Kotlin (Multiplatform), Architecture, Android Things, Jetpack, Flutter, Android Keystore, Security / Encryption
 
 #### 01/08/2016 – 31/10/2016
 
-##### Senior Android Developer at Adorsys GmbH & Co KG
+##### Senior Android Developer at [Adorsys GmbH & Co KG](https://adorsys.de/)
 
-- Development and maintenance of apps for different customers (KURZ / Bausparkasse Schwäbisch Hall / Ergo Direkt / in-house)
+- Development and maintenance of apps for different customers ([KURZ](https://www.kurz.de/) / [Bausparkasse Schwäbisch Hall](https://www.schwaebisch-hall.de/) / [Ergo Direkt](https://www.ergo.de/) / [in-house](https://adorsys.de/))
 - Tags: Open GL
 
 #### 01/01/2016 – 31/07/2016
 
-##### Team Lead Conrad Competence Center Berlin at Conrad Electronic SE
+##### Team Lead Conrad Competence Center Berlin at [Conrad Electronic SE](https://www.conrad.de/)
 
-- responsibility for "technical coordination of Conrad Competence Center Berlin"
+- Responsibility for "technical coordination of Conrad Competence Center Berlin"
 - "technical development, supervision and motivation of staff"
-- organizational planning for mobile applications and innovations
-- communication with stakeholders
+- Organizational planning for mobile applications and innovations
+- Communication with stakeholders
 - Tags: project planning, team lead
 
 #### 01/12/2014 – 31/07/2016
 
-##### Lead Android Developer at Conrad Electronic SE
+##### Lead Android Developer Conrad Competence Center Berlin at [Conrad Electronic SE](https://www.conrad.de/)
 
-- responsibility for the Android project (project planning / coordination / cost estimate / communication with external developers / testers / definition of code styles / guidelines / quality assurance)
+- Responsibility for the Android project (project planning / coordination / cost estimate / communication with external developers / testers / definition of code styles / guidelines / quality assurance)
+- Organizational planning for mobile applications and innovations
 - Tags: code reviews, Git Flow, CI (Jenkins), architecture, code style / quality, dynamic UI, Material Design
-- organizational planning for mobile applications and innovations
 
 #### 01/10/2014 – 31/12/2015
 
-##### Android Developer at Fairmondo
+##### Android Developer at [Fairmondo eG](https://www.fairmondo.de/)
 
 - Voluntary self-dependent development of mobile shopping app for Fairmondo
 - Conception Architecture, UI / Connection to REST API
@@ -49,9 +49,9 @@
 
 #### 01/04/2013 – 30/09/2014
 
-##### Working student / Android Developer at ]init[ AG für digitale Kommunikation
+##### Working student / Android Developer at ][init](https://www.init.de/de)[ AG für digitale Kommunikation
 
-- self-dependent development of Android projects and team work projects, apps
+- Self-dependent development of Android projects and team work projects, apps
 - App [Nationalpark Berchtesgaden](https://play.google.com/store/apps/details?id=de.bayern.berchtesgaden)
 - App [KFZ-Steuerrechner](https://play.google.com/store/apps/details?id=de.bundesfinanzministerium.kfzrechner)
 
@@ -83,8 +83,8 @@
 ## Bachelor Thesis
 
 Android app for sharing guerrilla prose, a short inspirational text in combination with an image
-- conception / programming / testing of a PHP backend (with Laravel / Nginx on Raspberry Pi)
-- conception / programming / testing of Android app with RESTful interface to  Flickr API / own server
+- Conception / programming / testing of a PHP backend (with Laravel / Nginx on Raspberry Pi)
+- Conception / programming / testing of Android app with RESTful interface to  Flickr API / own server
 - RESTless services
 - Custom Views
 - Asynchronous Server communication
